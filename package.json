@@ -33,7 +33,7 @@
     "hapi": "17.5.1",
     "http-server": "0.11.1",
     "jest-mock-axios": "2.4.0",
-    "nodemon": "1.17.5",
+    "nodemon": "1.19.4",
     "prettier": "1.13.5",
     "prettier-stylelint": "0.4.2",
     "redux-devtools": "3.4.1",
