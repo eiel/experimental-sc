@@ -29,7 +29,7 @@
     "eslint-plugin-jsx-a11y": "6.0.3",
     "eslint-plugin-react": "7.9.1",
     "flow-bin": "0.74.0",
-    "flow-typed": "2.4.0",
+    "flow-typed": "2.6.2",
     "hapi": "17.5.1",
     "http-server": "0.11.1",
     "jest-mock-axios": "2.4.0",
